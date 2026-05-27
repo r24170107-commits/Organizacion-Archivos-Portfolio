@@ -1,6 +1,4 @@
-# Titulo Principal:" Portafolio de Arquitectura y Organización de Archivos - Semestre 2026".
-
-# -----------------------------------------------------------------------
+# Portafolio de Arquitectura y Organización de Archivos - Semestre 2026
 
 # Perfil del Alumno
 
@@ -14,7 +12,7 @@
 
 https://github.com/r24170107-commits/Organizacion-Archivos-Portfolio
 
-# Indice de proyectos TARAN
+# Indice de proyectos
 
 # Nombre de los Proyecto
 
