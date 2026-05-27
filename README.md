@@ -14,9 +14,9 @@ https://github.com/r24170107-commits/Organizacion-Archivos-Portfolio
 
 # Indice de proyectos
 
-# Nombre de los Proyecto
+# Nombre de los Proyecto TARAN
 
-# Proyecto-Corte-1-Data-bridge
+# Proyecto-Corte-1-Data-Dridg
 
 # Proyecto-Corte-2-Control de acceso
 
