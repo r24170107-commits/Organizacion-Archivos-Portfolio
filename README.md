@@ -1,7 +1,7 @@
 ## Perfil del Alumno
 
 **Nombre:** Maximiliano Mendoza Vizcarra
-
+**Matrícula:** R24170107
 **Carrera:** Ingeniería Informática  
 **Materia:** Administración y Organización de Datos  
 **Institución:** Instituto Tecnológico Superior de Lerdo
