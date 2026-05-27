@@ -1,0 +1,9 @@
+cantidad,formato,tiempo_escritura_segundos,tiempo_lectura_segundos,tamano_mb,registros_leidos,facilidad_procesamiento,facilidad_visualizacion,flexibilidad
+1000,CSV,0.02,0.01,0.07,1000,Alta,Alta,Media
+1000,JSON,0.03,0.01,0.2,1000,Media,Media,Alta
+1000000,CSV,15.36,1.91,75.7,1000000,Alta,Alta,Media
+1000000,JSON,29.85,3.19,198.73,1000000,Media,Media,Alta
+10000000,CSV,156.52,23.84,766.59,10000000,Alta,Alta,Media
+10000000,JSON,295.68,33.34,1996.82,10000000,Media,Media,Alta
+20000000,CSV,305.99,37.17,1543.72,20000000,Alta,Alta,Media
+20000000,JSON,624.33,67.23,4004.19,20000000,Media,Media,Alta

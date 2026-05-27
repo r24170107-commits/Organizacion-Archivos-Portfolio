@@ -1,0 +1,5 @@
+REPORTE DE BUSQUEDA DE PACIENTES
+=============================================
+
+{'id': 1, 'nombre': 'Patricio Gerónimo Rascón Barrientos', 'edad': 92, 'consulta': {'temperatura': 36.7, 'presion': '142/66', 'medicamento': 'Omeprazol', 'especialidad': 'Traumatologia', 'enfermedad': 'Diabetes'}}
+

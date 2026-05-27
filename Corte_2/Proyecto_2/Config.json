@@ -1,0 +1,10 @@
+{
+    "wifi_ssid": "HRODARTE",
+    "wifi_pass": "Mortadela1",
+    "umbral_temp": 30.0,
+    "sensor_id": "DS18D20",
+    "pines": {
+        "sensor_temperatura": 22,
+        "rele_ventilador": 16,
+    }
+}

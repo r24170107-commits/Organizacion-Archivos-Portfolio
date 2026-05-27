@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+.env
+
+# Archivos grandes generados
+datos/csv/*.csv
+datos/json/*.json
+
+# Reportes temporales
+*.log
+
