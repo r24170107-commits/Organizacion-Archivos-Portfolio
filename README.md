@@ -16,7 +16,7 @@ https://github.com/r24170107-commits/Organizacion-Archivos-Portfolio
 
 # Nombre de los Proyecto
 
-# Proyecto-Corte-1-Data-bridgeJHDJHD
+# Proyecto-Corte-1-Data-bridge
 
 # Proyecto-Corte-2-Control de acceso
 
