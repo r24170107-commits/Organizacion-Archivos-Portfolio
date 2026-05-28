@@ -1,3 +1,15 @@
+## Proyecto 2: Control de Acceso — Monitor de Temperatura con Raspberry Pi Pico W
+
+## Descripcion
+
+## Objetivo
+
+## Tecnologias Utilizadas
+
+## Formatos de Archivos
+
+## Estructura del Proyecto
+
 ## Enlaces de los Repositorios Del Portafolio De Arquitectura y Organizacion De Datos
 
 | Proyectos                              | Tecnologías                              | Formatos de Archivo | Enlace Directo                                                                                                      |
