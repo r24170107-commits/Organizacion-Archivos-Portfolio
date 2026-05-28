@@ -1,4 +1,4 @@
-## Proyecto 2: Control de Acceso — Monitor de Temperatura con Raspberry Pi Pico W
+# Proyecto 2: Control de Acceso — Monitor de Temperatura con Raspberry Pi Pico W
 
 ## Descripcion
 
