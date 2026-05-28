@@ -2,6 +2,8 @@
 
 # Perfil del Alumno
 
+![Avatar del alumno](./Usuario.jpeg)
+
 - **Nombre:** Maximiliano Mendoza Vizcarra
 - **Matrícula:** R24170107
 - **Carrera:** Ingeniería Informática
